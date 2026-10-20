@@ -59,7 +59,6 @@ Proud **Cloudflare advocate** — I freaking love Cloudflare, TYSON Media Group 
 | **[satellite-tracker](https://github.com/TYSONMediaGroup/satellite-tracker)** | Real-time orbital propagation and 3D interactive Earth globe | `React 19` `Three.js` `satellite.js` |
 | **[3d-tysonmediagroup-org](https://github.com/TYSONMediaGroup/3d-tysonmediagroup-org)** | Interactive 3D web experience with drivable vehicle physics | `Three.js` `WebGL` `Cloudflare Pages` |
 | **[PlayStation 2 Clock](https://github.com/TYSONMediaGroup/PS2-Clock-Mod)** | Authentic recreation of the PS2 BIOS clock and crystal display | `LÖVE 2D` `Lua` |
-| **[workspace-sync](https://github.com/TYSONMediaGroup/workspace-sync)** | Automated workstation sync, dotfiles, and daily workflow state tracking | `Bash` `macOS` `Git` |
 
 ---
 
