@@ -28,9 +28,9 @@ Welcome to the central profile for **Tyler Custine** and **TYSON Media Group**.
 
 > *"I'm Tyler, and I absolutely hate software development, yet if you look at my commit timeline on here, you might find otherwise..."*
 > 
-> *I like cars, native macOS software, audio DSP engines, 3D graphics, and building clean web experiences.*
+> *I like cars, a lot, like, I really really like cars.*
 
-Proud **Cloudflare advocate** — relying on Cloudflare's edge network, Pages, Workers, DNS, and security infrastructure to power and distribute TYSON Media Group digital platforms across the globe.
+Proud **Cloudflare advocate** — I freaking love Cloudflare, TYSON Media Group relies on Cloudflare's edge network, Pages, Workers, DNS, and security infrastructure to power and distribute the tysonmediagroup.org framework all across the world.
 
 ---
 
@@ -38,9 +38,9 @@ Proud **Cloudflare advocate** — relying on Cloudflare's edge network, Pages, W
 
 | Device | Role | Details |
 | :--- | :--- | :--- |
-| **2019 MacBook Pro 16"** | Daily Driver | macOS Tahoe 26 |
-| **Lenovo Legion Slim 7i Gen 8** | Gaming | High-Performance Laptop |
-| **Omen by HP - 15 ce0xx** | Sandbox | Lab & Testing Rig |
+| **2019 MacBook Pro 16"** | Daily Driver | I used to hate Mac's... Now?... I loveeeee my Macbook Pro more than any other computer i've ever owned! |
+| **Lenovo Legion Slim 7i Gen 8** | Gaming | windows 11 go brrrr |
+| **Omen by HP - 15 ce0xx** | Linux Sandbox | linuxxxxxxxxx |
 
 ---
 
@@ -63,7 +63,7 @@ Proud **Cloudflare advocate** — relying on Cloudflare's edge network, Pages, W
 
 ---
 
-### Tech Stack & Infrastructure
+### Tech stuff
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
